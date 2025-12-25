@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Hend Mahmoud 👋
 
-<!--
-**hendmahmoud2004/hendmahmoud2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Artificial Intelligence Student  
+📊 Interested in Data Science, Data Engineering, and Analytics  
+⚡ Passionate about transforming raw data into meaningful insights  
 
-Here are some ideas to get you started:
+## 🔍 What I’m Working On
+- Designing conceptual **ETL pipelines**
+- Data cleaning and transformation logic
+- Analytics-ready datasets for reporting and forecasting
+- Academic and hands-on AI & Data projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Skills & Tools
+- Data Analysis & Data Cleaning
+- ETL Design (Conceptual)
+- SQL & Relational Databases
+- Python (Basics)
+- Visualization & Reporting
+- Git & GitHub
+
+## 📁 Featured Projects
+- **GreenStream Energy – Smart Meter Data Pipeline**  
+  Conceptual serverless ETL pipeline to transform dark data into analytics-ready datasets.
+
+## 📈 Goals
+- Improve my data engineering and analytics skills
+- Build strong, well-documented projects
+- Prepare for real-world AI and data science roles
+
+✨ Always learning and improving.
